@@ -74,3 +74,11 @@ npm start
 # In another terminal (backend)
 cd ../backend
 npm run dev
+## 🎥 Live Demo
+
+Click the image below to watch a full walkthrough of GoFood:
+
+[![Watch Demo]:::https://www.loom.com/share/e83c411432db47cfa65c6d5807de4e77?sid=95347c72-f52a-4355-96a3-a0e3d791e124
+
+
+
